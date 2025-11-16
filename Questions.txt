@@ -1,0 +1,8 @@
+1. Identify Brands that needs Promotional or Pricing Adjustments which exhibit lower sales performance but higher profit margins.
+2. Which Vendors and brands demonstrate the highest sales performance ?
+3. Which Vendors contribute the most to total purchase dollars?
+4. How much of total procurement is dependent on the top vendors?
+5. Does the purchaseing in bulk reduce the unit price, and what is the optimal purchase volume for cost saving?
+6. Which Vendor have low inventory turnover, indicating excess stock and slow-moving products?
+7. How much capital is locked in unsold inventory per vendors contribute the most to it?
+8. What is the 95% confidence intervals for profit margins of top-performing and low-performing vendors?
